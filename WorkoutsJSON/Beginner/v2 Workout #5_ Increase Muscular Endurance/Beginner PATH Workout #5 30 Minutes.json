@@ -1,0 +1,27 @@
+{
+    "workoutName": "Aerobic & Strength Exercises",
+    "goals": [
+        "Increase Muscle Endurance",
+        "Increase Stamina"
+    ],
+    "days": [
+        {
+            "day": "1",
+            "name": "Endurance- Focused Workout",
+            "duration": "30 Minutes",
+            "description": "Warm-Up (3 Minutes)\nWarm-Up: Arm Swings (1 Minute)\nDescription: Swing both arms forward and backward in large, controlled arcs. Alternate directions every 30 seconds.\nWarm-Up: Standing Hip Circles (1 Minute)\nDescription: Stand with feet shoulder-width apart, place hands on hips, and rotate hips in a large circle. Perform 10 circles clockwise, then 10 counterclockwise.\nWarm-Up: Dynamic Lunges with Torso Twist (1 Minute)\nDescription: Step forward into a lunge, then twist your torso toward your forward leg. Alternate sides for 10 reps each leg.\nExercise 1: Endurance Circuit (24 Minutes)\nRepeat 3 rounds with 1-minute rest:\nPush-Up Walkouts \u2013 1 Minute\nDescription: From a standing position, walk your hands out to a push-up, perform one, and return to standing.\nRest 15 seconds\nSlow Lateral Step with Pause \u2013 1 Minute\nDescription: Take a wide step to the side, pause for 2 seconds, and return to center. Alternate sides.\nRest 15 seconds\nBird Dog Crunch \u2013 1 Minute\nDescription: In a tabletop position, extend opposite arm and leg, then crunch them together under your body.\nRest 15 seconds\nOverhead Squats \u2013 1 Minute\nDescription: Perform squats with arms extended overhead to engage the shoulders and core.\nRest 15 seconds\nSuperman Swimmers \u2013 1 Minute\nDescription: In a prone position, alternate lifting opposite arms and legs, mimicking a swimming motion.\nRest 2 Minutes\nPost-Workout Stretch (3 Minutes)\nStanding Forward Fold \u2013 1 Minute\nDescription: Bend at the hips and let your head hang, stretching the hamstrings and lower back.\nCat-Cow Stretch \u2013 1 Minute\nDescription: Alternate between arching and rounding your back in a tabletop position to stretch the spine.\nButterfly Stretch \u2013 1 Minute\nDescription: Sit with soles of your feet together, gently pressing knees toward the ground to stretch the inner thighs.\nThis workout emphasizes endurance through slower, controlled movements and sustained holds while integrating both cardio and strength elements for long-duration exertion"
+        },
+        {
+            "day": "2",
+            "name": "Endurance- Focused Workout",
+            "duration": "30 Minutes",
+            "description": "Warm-Up (3 Minutes)\nStanding Arm Crossovers (1 Minute): Swing arms across your chest, alternating the top arm.\nLateral Lunges with Reach (1 Minute): Step to the side, sink into a lunge, and reach toward the foot. Alternate sides.\nHigh Knee Walks (1 Minute): March forward with high knees, reaching toward the opposite knee with each step.\nExercise 1: Endurance Circuit (24 Minutes)\nRepeat 3 rounds with 2-minute rest between rounds:\nWall Sit with Heel Lifts \u2013 1 Minute\nDescription: Hold a wall sit position while alternating lifting heels off the ground, activating quads and calves.\nRest 15 seconds\nPlank Hold with Slow Arm Reaches \u2013 1 Minute\nDescription: Maintain a plank while slowly reaching one arm forward, alternating sides to engage the core and shoulders.\nRest 15 seconds\nStep-Ups with Controlled Descents \u2013 1 Minute\nDescription: Step onto a box or bench with one leg, then step down slowly to focus on eccentric control.\nRest 15 seconds\nBear Crawl \u2013 1 Minute\nDescription: Move forward and backward in a crawling position, keeping knees close to the ground and engaging the core.\nRest 15 seconds\nSlow-Paced High Knees \u2013 1 Minute\nDescription: Bring your knees up to hip height at a slower, deliberate pace to emphasize endurance and control.\nRest 2 Minute\n\nCool Down (3 Minutes)\nLight Jump Rope (3 Minutes): A steady pace, focusing on rhythmic breathing."
+        },
+        {
+            "day": "3",
+            "name": "Endurance- Focused Workout",
+            "duration": "30 Minutes",
+            "description": "Warm-Up (3 Minutes)\nDynamic Toe Touches (1 Minute): Swing one leg forward and reach for your toes with the opposite hand, alternating sides.\nWorld\u2019s Greatest Stretch (1 Minute): Step into a lunge, rotate your torso, and reach one arm overhead. Alternate sides.\nButt Kicks (1 Minute): Jog in place, bringing your heels to your glutes.\nExercise 1: Endurance Circuit (24 Minutes)\nRepeat 3 rounds with 2-minute rest:\nIsometric Push-Up Hold \u2013 1 Minute\nDescription: Lower halfway into a push-up and hold.\nRest 15 seconds\nSlow Side Lunges \u2013 1 Minute\nDescription: Alternate side lunges, focusing on depth and control.\nRest 15 seconds\nResistance Band Rows \u2013 1 Minute\nDescription: Use a resistance band to perform slow, controlled rows.\nRest 15 seconds\nSingle-Leg Romanian Deadlifts \u2013 30 Sec Each Side\nDescription: Balance on one leg, hinging forward to engage the hamstrings and glutes.\nRest 15 seconds\nHalf-Burpees \u2013 1 Minute\nDescription: Perform burpees without the jump.\nRest 2 Minutes\n\nPost-Workout Stretch (3 Minutes)\nSeated Forward Fold with Side Reach \u2013 1 Minute\nDescription: Stretch forward and alternate reaching to each leg.\nButterfly Stretch with Gentle Bounce \u2013 1 Minute\nDescription: Press knees downward gently for a deeper stretch.\nThread the Needle Stretch \u2013 1 Minute\nDescription: From a tabletop position, thread one arm under the other and twist gently."
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "workoutName": "Anaerobic Exercises (15-minutes)",
+    "goals": [
+        "Increase Muscle Strength",
+        "Gain Muscle Mass"
+    ],
+    "days": [
+        {
+            "day": "1",
+            "name": "Chest, Triceps, and Shoulders",
+            "duration": "15 Minutes",
+            "description": "Exercise 2: Incline Barbell Press (6 Minutes)\nSet #1: 15 Presses (1 minute)\n1 minute break\nSet #2: 15 Presses (1 minute)\n1 minute break\nSet #3: 15 Presses (1 minute)\n1 minute break\nNecessary Equipment: Barbell and Weights\nDescription: Sit on the incline bench press angled 45 to 60 degrees, grasp the barbell with an overhand grip wider than shoulder width.\nRest 1 Minute\n\nExercise 2: Lateral Dumbbell Raises (6 minutes)\nSet #1: 12 Presses (1 minute)\n1 minute break\nSet #2: 12 Presses (1 minute)\n1 minute break\nSet #3: 12 Presses (1 minute)\n1 minute break\nNecessary Equipment: Dumbbells \nDescription: Stand with a straight back, with legs slightly apart,arms hanging next to the body,holding a dumbbell in each hand : raise the arms to horizontal with the elbows slightly bent and return to the initial position\n\n\nExercise 3: Reverse Pushdowns (3 minutes)\nSet #1: 15 press downs (30 seconds)\n45 second break\nSet #2: 15 press downs (30 seconds)\n45 second break\nSet #3: 15 press downs (30 seconds)\nNecessary Equipment: Cable Machine and Rope \nDescription: Stand facing the machine with the arms next the body and elbows bent and grasp the handle with an underhand grip"
+        },
+        {
+            "day": "2",
+            "name": "Back and Biceps",
+            "duration": "15 Minutes",
+            "description": "Exercise 1: Reverse Chin-Ups (8 Minutes)\nSet #1: 10 Chin-Ups (1 minute)\n1 minute break\nSet #2: 10 Chin-Ups (1 minute)\n1 minute break\nSet #3: 10 Chin-Ups (1 minute)\n1 minute break\nNecessary Equipment: Fixed Bar\nDescription: Hang from a bar with an underhand grip, hands shoulder-width apart, and push out the chest as you raise the chin to the bar.\nRest 2 Minute\n\nExercise 2: Seated Rows (7 Minutes)\nSet #1: 15 Rows (1 minute)\n1 minute break\nSet #2: 15 Rows (1 minute)\n1 minute break\nSet #3: 15 Rows (1 minute)\n1 minute break\nNecessary Equipment: Row Machine\nDescription: Sit facing the machine, feet resting on the foot pad, and torso bent forward. Bring the handle to the base of the sternum by straightening the back and pulling the elbows back.\nRest 1 minute seconds"
+        },
+        {
+            "day": "3",
+            "name": "Legs",
+            "duration": "15 Minutes",
+            "description": "Exercise 1: Dumbbell Squats (8 Minutes)\nSet #1: 15 Squats (1 minutes)\n1 minute break\nSet #2: 15 Squats (1 minutes)\n1 minute break\nSet #3: 15 Squats (1 minutes)\n1 minute break\nNecessary Equipment: Dumbbells\nDescription: Stand with the feet slightly apart, holding a dumbbell in each hand. Bend the knees, keeping the back straight until thighs are horizontal.\nRest 2 Minute\n\nExercise 2: Leg Extensions (7 Minutes)\nSet #1: 15 Extensions (1 minute)\n1 minute break\nSet #2: 15 Extensions (1 minute)\n1 minute break\nSet #3: 15 Extensions (1 minute)\n1 minute break\nNecessary Equipment: Leg Extension Machine\nDescription: Sit at the machine, grasp the handles, and extend your legs to horizontal.\nRest 1 Minute"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "workoutName": "Aerobic Exercises",
+    "goals": [
+        "Improve cardiovascular health",
+        "Lower blood pressure"
+    ],
+    "days": [
+        {
+            "day": "1",
+            "name": "Cardio and Bodyweight Circuit",
+            "duration": "30 Minutes",
+            "description": "Warm-Up: (3 min)\nDynamic Stretching: High knees, leg swings, lunge + twist, side lunge, (2 minutes, 30 seconds each)\nJump Rope: Moderate pace to high speed (1 minute)\n\nCircuit 1: (10 minutes)\nExercise 1: Jump Squats \u2013 45 seconds\nExercise 2: Mountain Climbers \u2013 45 seconds\nExercise 3: Burpees \u2013 45 seconds\nExercise 4: Push-Ups \u2013 45 seconds\nRest: 1 minute after completing each circuit; repeat 2 times\nBreak: 2 Minutes\n\nExercise 1: Stationary Bike Intervals (7 minutes)\nSets: 3 x 1.5 minute high intensity with 30-second rest between sets\nDescription: Alternate between high resistance and moderate pace for cardiovascular endurance.\nBreak: 1 Minute\n\nCircuit 2: Core and Lower Body (10 minutes)\nExercise 1: Plank Jacks \u2013 45 seconds\nExercise 2: Bodyweight Lunges \u2013 45 seconds per leg\nExercise 3: Plank to Push-Up \u2013 45 seconds\nExercise 4: Reverse Lunges \u2013 45 seconds per leg\nRest: 1 minute after completing the circuit; repeat 2 times\nBreak: 2 Minutes"
+        },
+        {
+            "day": "2",
+            "name": "High-Intensity Bodyweight Circuit",
+            "duration": "30 Minutes",
+            "description": "Warm-Up: (4 min)\nDynamic Stretching: High knees, leg swings, lunge + twist, side lunge, (2 minutes, 30 seconds each)\nJump Rope: Moderate pace to high speed (2 minute)\n\nCircuit 1: Core and Cardio Combo (10 minutes)\nExercise 1: Plank to Toe Touch \u2013 45 seconds\nExercise 2: Bicycle Crunches \u2013 45 seconds\nExercise 3: Jump Squats \u2013 45 seconds\nExercise 4: Mountain Climbers \u2013 45 seconds\nRest: 1 minute rest after each circuit; repeat 2 times\nBreak: 2 Minutes\n\nExercise 1: Rowing Machine (7 minutes)\nSets: 2 x 2 minutes moderate pace with 1-minute high intensity at end of each set\nDescription: Alternate steady rowing pace with high-power bursts.\nBreak: 1 Minute\n\nCircuit 2: Core Strength and Stability (8 minutes)\nExercise 1: Plank Jacks \u2013 45 seconds\nExercise 2: Russian Twists \u2013 45 seconds\nExercise 3: Side Plank (Left) \u2013 45 seconds\nExercise 4: Side Plank (Right) \u2013 45 seconds\nRest: 1 minute after completing the circuit; repeat 2 times\n\t\nPost-Workout Stretch (1 minute)\nChild\u2019s Pose: 1 minute, focus on deep breathing"
+        },
+        {
+            "day": "3",
+            "name": "Cardio Circuit for Endurance",
+            "duration": "30 Minutes",
+            "description": "Warm-Up: (3 min)\nDynamic Stretching: High knees, leg swings, lunge + twist, side lunge, (2 minutes, 30 seconds each)\nJump Rope: Moderate pace to high speed (1 minute)\n\nCircuit 1: Bodyweight Cardio and Power (13 minutes)\nExercise 1: Jump Lunges \u2013 45 seconds\nExercise 2: Burpees \u2013 45 seconds\nExercise 3: High-Knee Runs \u2013 45 seconds\nExercise 4: Power Push-Ups \u2013 45 seconds\nRest: 1 minute rest after completing the circuit; repeat 3 times\nBreak: 1 Minute\n\nCircuit 2: Core and Lower Body Circuit (12 minutes)\nExercise 1: Walking Lunges \u2013 30 seconds per leg\nExercise 2: Glute Bridge March \u2013 30 seconds\nExercise 3: Side Plank with Leg Raise \u2013 30 seconds per side\nExercise 4: Plank to Downward Dog \u2013 30 seconds\nRest: 30 second rest after completing the circuit; repeat 3 times\nBreak: 1.5 Minutes\n\nPost-Workout Stretch (2 minute)\nQuad Stretch: 30 seconds per leg\nHamstring Stretch: 30 seconds per leg"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "workoutName": "HIIT & Aerobic Exercise",
+    "goals": [
+        "Lose Fat",
+        "Boost Metabolic Rate"
+    ],
+    "days": [
+        {
+            "day": "1",
+            "name": ": Lower Body HIIT + Cardio Focus",
+            "duration": "15 Minutes) ",
+            "description": "Exercise 1: Lower Body Strength Circuit (15 minutes)  \nComplete 3 reps of this cycle. 1 minute break between each set. \n1. Walking Lunges with Dumbbells (12-15 reps) (45 Seconds)\nNecessary Equipment: Dumbbells \nDescription: Step forward into deep lunges, keeping the core engaged and focusing on the quads, glutes, and hamstrings.\n1 minute break\n2. Bulgarian Split Squats (12-15 reps) (45 Seconds)\nNecessary Equipment: Dumbbells and Bench\nDescription: Perform split squats with one foot elevated behind you, focusing on single-leg strength and stability.\n1 minute break\n3. Hip Thrusts with Dumbbell (12-15 reps) (45 Seconds)\nNecessary Equipment: Dumbbell\nDescription: Drive through the heels to lift your hips while activating the glutes and hamstrings for optimal glute development.\n45 second break"
+        },
+        {
+            "day": "2",
+            "name": "Upper Body HIIT + Core Focus",
+            "duration": "15 Minutes",
+            "description": "Exercise 1: HIIT Upper Body Circuit (15 Minutes)  \nPerform each exercise for 40 seconds on, 20 seconds off. Complete 2 rounds with 1 minute rest between rounds.  \n1. Push-Ups to Shoulder Taps  \n   Description: Perform a push-up followed by tapping each shoulder in a plank position to engage chest, shoulders, and core.\n2. Renegade Rows  \n   Necessary Equipment: Dumbbells  \n   Description: Perform a row with dumbbells in a plank position, engaging the back, shoulders, and core.\n3. Dumbbell Overhead Press  \n   Necessary Equipment: Dumbbells  \n   Description: Lift dumbbells overhead, focusing on the shoulders and triceps while engaging the core.\n4. Burpee to Push-Up  \n   Description: A burpee combined with a push-up to increase cardiovascular demand while engaging the chest and core.  \nRest 60 seconds between rounds  "
+        }
+    ]
+}

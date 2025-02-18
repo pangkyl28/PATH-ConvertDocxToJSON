@@ -1,0 +1,21 @@
+{
+    "workoutName": "Aerobic Exercises",
+    "goals": [
+        "Improve cardiovascular health",
+        "Lower blood pressure"
+    ],
+    "days": [
+        {
+            "day": "1",
+            "name": "High-Intensity Bodyweight Circuit",
+            "duration": "15 Minutes",
+            "description": "Exercise 1: Rowing Machine (7 minutes)\nSets: 2 x 2 minutes moderate pace with 1-minute high intensity at end of each set\nDescription: Alternate steady rowing pace with high-power bursts.\nBreak: 1 Minute\n\nCircuit 2: Core Strength and Stability (8 minutes)\nExercise 1: Plank Jacks \u2013 45 seconds\nExercise 2: Russian Twists \u2013 45 seconds\nExercise 3: Side Plank (Left) \u2013 45 seconds\nExercise 4: Side Plank (Right) \u2013 45 seconds\nRest: 1 minute after completing the circuit; repeat 2 times"
+        },
+        {
+            "day": "2",
+            "name": "Cardio Circuit for Endurance",
+            "duration": "15 Minutes",
+            "description": "Warm-Up: (3 min)\nDynamic Stretching: High knees, leg swings, lunge + twist, side lunge, (2 minutes, 30 seconds each)\nJump Rope: Moderate pace to high speed (1 minute)\n\nCircuit 2: Core and Lower Body Circuit (12 minutes)\nExercise 1: Walking Lunges \u2013 30 seconds per leg\nExercise 2: Glute Bridge March \u2013 30 seconds\nExercise 3: Side Plank with Leg Raise \u2013 30 seconds per side\nExercise 4: Plank to Downward Dog \u2013 30 seconds\nRest: 1 minute after completing the circuit; repeat 3 times"
+        }
+    ]
+}

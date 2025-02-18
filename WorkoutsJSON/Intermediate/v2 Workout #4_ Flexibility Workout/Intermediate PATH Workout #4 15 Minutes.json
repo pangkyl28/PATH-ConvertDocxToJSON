@@ -1,0 +1,27 @@
+{
+    "workoutName": "Flexibility Exercises",
+    "goals": [
+        "Increase Flexibility",
+        "Improve Mobility"
+    ],
+    "days": [
+        {
+            "day": "1",
+            "name": "Full-Body Dynamic Stretching",
+            "duration": "15 Minutes",
+            "description": "Warm Up (4 Minutes):\nWarm Up: Dynamic Lunges (2 Minutes)\nStep forward into a lunge, keeping your back knee off the ground. Rotate your torso toward the front leg, then switch sides. Perform 10-15 reps per side.\nWarm Up: Arm Circles (2 Minutes)\nExtend your arms out to the sides and make small circles, gradually increasing the size. Do 10-15 circles forward, then 10-15 circles backward.\n\nExercise 1: Dynamic Hamstring Stretch (6 Minutes)\nSet #1: 15 reps (1 minutes)\n1 minute break\nSet #2: 15 reps (1 minutes)\n1 minute break\nSet #3: 15 reps (1 minutes)\nNecessary Equipment: None\nDescription: Stand tall, extend one leg forward with your heel on the ground, and bend at the hips, reaching toward your toes. Switch legs.\nBreak 1 Minutes\n\nExercise 2: Deep Squat Hold (5 Minutes)\nSet #1: Hold for 1 minute (1 minute)\n1 minute break\nSet #2: Hold for 1 minute (1 minute)\n1 minute break\nNecessary Equipment: None\nDescription: Squat down with feet shoulder-width apart, keeping the chest up and holding the position.\nBreak 1 Minutes"
+        },
+        {
+            "day": "2",
+            "name": "Lower Body Focus",
+            "duration": "15 Minutes",
+            "description": "Exercise 1: Pigeon Pose (5 Minutes)\nSet #1: Hold for 30 seconds per side (1 minute)\n1 minute break\nSet #2: Hold for 30 seconds per side (1 minute)\nNecessary Equipment: Mat\nDescription: From a plank position, bring one knee forward and lay the outside of your shin on the ground, extending the other leg behind you.\nBreak 2 Minutes\n\nExercise 2: Deep Lunge Stretch (6 Minutes)\nSet #1: Hold for 30 seconds per side (1 minute)\n1 minute break\nSet #2: Hold for 30 seconds per side (1 minute)\n1 minute break\nSet #3: Hold for 30 seconds per side (1 minute)\nNecessary Equipment: Mat\nDescription: Step one foot forward and sink your hips while keeping your back leg extended.\nBreak 1 Minutes\n\nExercise 3: Standing Hamstring Stretch (4 Minutes)\nSet #1: Hold for 30 seconds per side (1 minute)\n1 minute break\nSet #2: Hold for 30 seconds per side (1 minute)\nNecessary Equipment: None\nDescription: Stand with one foot elevated on a step or bench and reach toward your toes while keeping your leg straight.\nBreak 1 Minutes"
+        },
+        {
+            "day": "3",
+            "name": "Upper Body Flexibility",
+            "duration": "15 Minutes",
+            "description": "Warm Up (4 Minutes);\nWarm Up: Shoulder Rolls (2 Minutes)\nRoll your shoulders forward in a circular motion for 2.5 minutes, then backward for another 2.5 minutes.\nWarm Up: Overhead Arm Swings (2 Minutes)\nSwing both arms overhead, then bring them back down and cross them in front of your body. Perform 10-15 reps.\n\nExercise 1: Cat-Cow Stretch (6 Minutes)\nSet #1: 10 reps (1 minute)\n1 minute break\nSet #2: 10 reps (1 minute)\n1 minute break\nSet #3: 10 reps (1 minute)\nNecessary Equipment: Mat\nDescription: Start on all fours, arch your back and lift your head (cow), then round your back and tuck your chin (cat).\nBreak 1 Minutes\n\nExercise 2: Triceps Stretch (5 Minutes)\nSet #1: Hold for 1 minute per side (2 minutes)\n1 minute break\nSet #2: Hold for 1 minute per side (2 minutes)\nNecessary Equipment: None\nDescription: Reach one arm overhead and bend the elbow, using the opposite hand to press gently."
+        }
+    ]
+}

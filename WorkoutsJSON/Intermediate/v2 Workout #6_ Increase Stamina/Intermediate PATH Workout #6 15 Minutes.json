@@ -1,0 +1,21 @@
+{
+    "workoutName": "Aerobic & Strength Exercises",
+    "goals": [
+        "Increase Muscle Endurance",
+        "Increase Stamina"
+    ],
+    "days": [
+        {
+            "day": "1",
+            "name": "Endurance- Focused Workout",
+            "duration": "15 Minutes",
+            "description": "Exercise 1: Endurance Circuit (15 Minutes)\nRepeat 3 rounds with 15-second rest between rounds:\nWall Sit with Heel Lifts \u2013 1 Minute\nDescription: Hold a wall sit position while alternating lifting heels off the ground, activating quads and calves.\nRest 15 seconds\nStep-Ups with Controlled Descents \u2013 1 Minute\nDescription: Step onto a box or bench with one leg, then step down slowly to focus on eccentric control.\nRest 15 seconds\nBear Crawl \u2013 1 Minute\nDescription: Move forward and backward in a crawling position, keeping knees close to the ground and engaging the core.\nRest 15 seconds\nSuperman Hold \u2013 1 Minute\nDescription: Lie face down and lift arms, chest, and legs off the ground, holding to strengthen the lower back and glutes.\nRest 15 seconds"
+        },
+        {
+            "day": "2",
+            "name": "Endurance- Focused Workout",
+            "duration": "15 Minutes",
+            "description": "Exercise 1: Endurance Circuit (15 Minutes)\nRepeat 3 rounds with 15-second rest:\nPush-Up to Shoulder Tap \u2013 1 Minute\nDescription: Perform a push-up, then tap one shoulder with the opposite hand, alternating sides.\nRest 15 seconds\nSplit Squat Hold \u2013 30 Sec Each Side (1 Minute)\nDescription: Hold a lunge position without moving, keeping tension in the legs.\nRest 15 seconds\nSide-Stepping Squats \u2013 1 Minute\nDescription: Take a step to the side, squat, return to standing, and repeat.\nRest 15 seconds\nSlow Jumping Jacks \u2013 1 Minute\nDescription: Perform jumping jacks at a controlled pace.\nRest 15 seconds"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "workoutName": "HIIT & Aerobic Exercise",
+    "goals": [
+        "Lose Fat",
+        "Boost Metabolic Rate"
+    ],
+    "days": [
+        {
+            "day": "1",
+            "name": ": Lower Body HIIT + Cardio Focus",
+            "duration": "30 Minutes) ",
+            "description": "Warm-Up (2 Minutes)\n1. Jump Rope (2 minutes)  \n   Description: Light, fast-paced skipping to increase heart rate and coordination.\n\n\nExercise 1: HIIT Cardio Circuit (10 minutes)  \nRepeat for 2 rounds with 1 minute rest between rounds.\n1. Jump Squats \u2013 40 sec on, 20 sec rest\nDescription: Explosive squats that transition into a jump, engaging the quads, glutes, and hamstrings.\n2. Lunge Jumps \u2013 40 sec on, 20 sec rest\nDescription: Alternate lunging legs with a jump in between, focusing on explosive power in the quads and glutes.\n3. Lateral Shuffles \u2013 40 sec on, 20 sec rest  \nDescription: Quick side-to-side movements that activate the inner thighs and improve agility.\n4. Box Jumps \u2013 40 sec on, 20 sec rest\nDescription: Explosively jump onto a box or step up onto a bench, driving through the glutes and quads.\nRest 1 Minute\n\nExercise 2: Lower Body Strength Circuit (18 minutes)  \nComplete 3 reps of this cycle. 1 minute break between each set. \n1. Walking Lunges with Dumbbells (12-15 reps) (45 Seconds)\nNecessary Equipment: Dumbbells \nDescription: Step forward into deep lunges, keeping the core engaged and focusing on the quads, glutes, and hamstrings.\n1 minute break\n2. Bulgarian Split Squats (12-15 reps) (45 Seconds)\nNecessary Equipment: Dumbbells and Bench\nDescription: Perform split squats with one foot elevated behind you, focusing on single-leg strength and stability.\n1 minute break\n3. Hip Thrusts with Dumbbell (12-15 reps) (45 Seconds)\nNecessary Equipment: Dumbbell\nDescription: Drive through the heels to lift your hips while activating the glutes and hamstrings for optimal glute development.\n1 minute break"
+        },
+        {
+            "day": "2",
+            "name": "Upper Body HIIT + Core Focus",
+            "duration": "30 Minutes",
+            "description": "Exercise 1: HIIT Upper Body Circuit (15 Minutes)  \nPerform each exercise for 40 seconds on, 20 seconds off. Complete 2 rounds with 1 minute rest between rounds.  \n1. Push-Ups to Shoulder Taps  \n   Description: Perform a push-up followed by tapping each shoulder in a plank position to engage chest, shoulders, and core.\n2. Renegade Rows  \n   Necessary Equipment: Dumbbells  \n   Description: Perform a row with dumbbells in a plank position, engaging the back, shoulders, and core.\n3. Dumbbell Overhead Press  \n   Necessary Equipment: Dumbbells  \n   Description: Lift dumbbells overhead, focusing on the shoulders and triceps while engaging the core.\n4. Burpee to Push-Up  \n   Description: A burpee combined with a push-up to increase cardiovascular demand while engaging the chest and core.  \nRest 60 seconds between rounds  \n\n Exercise 2: Core HIIT Circuit (12 Minutes)  \nPerform each exercise for 45 seconds on, 15 seconds off. Complete 3 rounds.  \n1. Russian Twists (Weighted)  \n  Description: Sit with knees bent and twist from side to side, using a weight to engage the obliques and core.\n2. V-Ups  \n  Description: Lift the upper and lower body simultaneously into a V-shape, focusing on the rectus abdominis.\n3. Plank with Shoulder Taps  \n  Description: Maintain a plank position while alternating shoulder taps, engaging the core and stabilizing muscles.\nRest 1 minute between rounds  \n\n Cool-Down & Stretching (3 Minutes)  \n1. Child\u2019s Pose \u2013 1 minute  \n   Description: Stretch out the lower back and shoulders.\n2. Seated Forward Fold \u2013 1 minutes  \n   Description: Stretch the hamstrings and lower back, promoting flexibility.\n3. Standing Chest Stretch \u2013 30 seconds per side  \n   Description: Stretch the chest and shoulders, aiding recovery."
+        }
+    ]
+}
